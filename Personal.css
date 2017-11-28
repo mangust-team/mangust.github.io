@@ -1,0 +1,31 @@
+body{
+	background-image: url("bodybg_UFC (1).jpg");
+	
+	background-color: black;
+	border-color:wait;
+}
+h1{
+	color:DodgerBlue;
+	text-align: center;
+	font-size: 80px;
+	font-family: Britannic Bold;
+}
+h2{
+	color:red;
+	text-align: center;
+	font-size: 70px;
+	font-family: Britannic Bold;
+}
+h3{
+	color:blue;
+	text-align: left;
+	font-size: 60px;
+	font-family: Britannic Bold;
+}
+ul{
+	color: red;
+	text-align: left;
+	font-size: 20px;
+	font-family: Britannic Bold;
+}
+
